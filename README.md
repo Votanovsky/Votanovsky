@@ -1,5 +1,4 @@
-### Hello world!!!
+### !!! yooo
 
-### My name is Sergey Votanovsky 🧙
-
-Frontend & CreativeCode development 🧬
+### My name is Votanovsky 🧙🧬
+ 
